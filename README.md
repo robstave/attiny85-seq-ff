@@ -24,11 +24,23 @@ The CV just kinda gooses the freq to 2x, 3x,4x
 
 [Snare](https://github.com/robstave/ArduinoComponentSketches/tree/master/ACS-85%20ATTiny85%20sketches/ACS-85-0110)
 [High Hat](https://github.com/robstave/ArduinoComponentSketches/tree/master/ACS-85%20ATTiny85%20sketches/ACS-85-0111)
-
-[Clocked lfo](https://github.com/robstave/ArduinoComponentSketches/tree/master/ACS-85%20ATTiny85%20sketches/ACS-85-0032)
-
-
+ 
+ Jan Ostmans code to play samples.
 
 
 
+[Trigger to Gate with drop prob](https://github.com/robstave/ArduinoComponentSketches/tree/master/ACS-85%20ATTiny85%20sketches/ACS-85-0620)
 
+[Prob gate](https://github.com/robstave/ArduinoComponentSketches/tree/master/ACS-85%20ATTiny85%20sketches/ACS-85-0615)
+
+
+
+
+
+
+
+
+
+maybe
+
+https://github.com/robstave/ArduinoComponentSketches/tree/master/ACS-85%20ATTiny85%20sketches/ACS-85-0220
